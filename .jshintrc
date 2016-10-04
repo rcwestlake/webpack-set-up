@@ -1,0 +1,6 @@
+{
+    // Ignored Warnings
+    "-W104": false,
+
+    "-W119": false
+}
